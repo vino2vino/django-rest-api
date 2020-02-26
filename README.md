@@ -1,0 +1,1 @@
+Container of the details about the project
